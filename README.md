@@ -1,1 +1,1 @@
-The main purpose of a README file in a software 
+The main purpose of a README file in a software
