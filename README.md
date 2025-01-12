@@ -1,1 +1,1 @@
-The main purpose of a README
+The main purpose of a READ
